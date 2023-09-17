@@ -1,7 +1,7 @@
 {
 	"spell": [
 		{
-			"name": "Air Bubble",
+			"name": "Воздушный пузырь",
 			"source": "AAG",
 			"page": 22,
 			"level": 2,
@@ -32,14 +32,14 @@
 				}
 			],
 			"entries": [
-				"You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system)."
+				"Вы создаёте призрачный шар вокруг головы согласного существа, которого вы можете видеть в пределах дистанции. Шар наполняется свежим воздухом, существующим, пока заклинание активно. Если у существа больше одной головы, шар появляется только вокруг одной из голов (этого достаточно, чтобы избежать удушения, при условии, что у всех голов одинаковая дыхательная система)."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "At Higher Levels",
 					"entries": [
-						"When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd."
+						"Если вы накладываете это заклинание, используя ячейку 3-го уровня или выше, вы можете создать два дополнительных шара свежего воздуха за каждый уровень ячейки выше 2-го."
 					]
 				}
 			],
